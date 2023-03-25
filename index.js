@@ -1,2 +1,2 @@
 console.log("halorakamin")
-console.log("haloabout")
+console.log("from index")
